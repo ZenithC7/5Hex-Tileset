@@ -2077,28 +2077,28 @@ TileSets/5Hex/Tiles/Hill
   index: -1
 TileSets/5Hex/Tiles/HillD
   rotate: false
-  xy: 1028, 912
-  size: 120, 113
-  orig: 120, 113
+  xy: 1028, 920
+  size: 120, 105
+  orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/5Hex/Tiles/HillR
   rotate: false
-  xy: 1028, 799
+  xy: 1028, 807
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/5Hex/Tiles/Holy Place
   rotate: false
-  xy: 1028, 676
+  xy: 1028, 684
   size: 120, 115
   orig: 120, 115
   offset: 0, 0
   index: -1
 TileSets/5Hex/Tiles/Holy site
   rotate: false
-  xy: 1028, 553
+  xy: 1028, 561
   size: 120, 115
   orig: 120, 115
   offset: 0, 0
@@ -3022,28 +3022,28 @@ TileSets/5Hex/Units/Helicopter Gunship-3
   index: -1
 TileSets/5Hex/Units/Hoplite
   rotate: false
-  xy: 1028, 440
+  xy: 1028, 448
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Hoplite-1
   rotate: false
-  xy: 1028, 327
+  xy: 1028, 335
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Hoplite-2
   rotate: false
-  xy: 1028, 214
+  xy: 1028, 222
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Horse Archer
   rotate: false
-  xy: 1028, 101
+  xy: 1028, 109
   size: 120, 105
   orig: 120, 105
   offset: 0, 0
